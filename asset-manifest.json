@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0709ad38.css",
+    "main.js": "/static/js/main.53c7e727.js",
+    "static/js/787.b68daf08.chunk.js": "/static/js/787.b68daf08.chunk.js",
+    "static/media/MovieWebsite.png": "/static/media/MovieWebsite.7c6f5db60083378faefa.png",
+    "static/media/Vijendra-Chouhan.pdf": "/static/media/Vijendra-Chouhan.f1f0b7cbacf98b6da0b6.pdf",
+    "static/media/VijendraChouhan.png": "/static/media/VijendraChouhan.2d5273b3891d4619af1e.png",
+    "static/media/ProjectOne.png": "/static/media/ProjectOne.e5ccab7ad67204870fef.png",
+    "static/media/foodWebsite.png": "/static/media/foodWebsite.40694fdf6f9c6d92d2b7.png",
+    "index.html": "/index.html",
+    "main.0709ad38.css.map": "/static/css/main.0709ad38.css.map",
+    "main.53c7e727.js.map": "/static/js/main.53c7e727.js.map",
+    "787.b68daf08.chunk.js.map": "/static/js/787.b68daf08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0709ad38.css",
+    "static/js/main.53c7e727.js"
+  ]
+}
